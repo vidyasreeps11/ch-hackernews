@@ -1,0 +1,12 @@
+.newsTile_div{
+    
+    height: 40px;
+    background-color: bisque;
+    color: chocolate;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a{
+    color: chocolate;
+}

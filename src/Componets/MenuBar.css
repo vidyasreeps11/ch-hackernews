@@ -1,0 +1,16 @@
+.menus{
+    height: 25px;
+    background-color: beige;
+
+}
+
+button{
+    width: 100px;
+}
+
+#loginButton{
+   margin-left: 1000px;
+   border-radius: 10px;
+   border-style: none;
+   background-color: burlywood;
+}
